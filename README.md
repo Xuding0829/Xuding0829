@@ -1,6 +1,6 @@
 # Hi there 👋
 # 🧑🏻 Xu Ding  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Xuding0829.readme&left_text=浏览量 Visitors" />  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <img alt="Xuding0829's Github chart" src="https://ghchart.rshah.org/Xuding0829" />
 
